@@ -14,6 +14,7 @@ on the VM you can use the configuration script at C:\DSI397\gitconfig.ps1
    1. DS Data Scientist
    1. DE Data Engineer
    1. AAD Analytic Application Developer
+   1. Threat Intelligence Anlayst 
 1. Your portfolio will increase the broader and deeper the experience you get during this class. Do you want to piursue a personal Capstone?
 1. If you answered YES to Question 4, list first idea of goals for Capstone
 
